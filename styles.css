@@ -1,0 +1,23 @@
+.div-main {
+    background-color: bisque;
+    width: auto;
+    height: auto;
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Monospace', 'sans-serif';
+    list-style: circle;
+}
+
+a {
+    font-size: 20px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+button:hover {
+    background-color: lightgreen;
+}
+
